@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f9f9f9;
+}
+
+footer {
+    background-color: #3f3f3f;
+    padding: 2em 0;
+    color: #fff;
+}
+
+footer .fones h3 {
+    font-size: 1.2em;
+    font-weight: 100;
+    text-align: center;
+    padding-top: 1.2em;
+}
+
+footer .fones p {
+    font-size: 1em;
+    font-weight: 100;
+    text-align: center;
+    color: #939598;
+}
+
+footer .copyright {
+    margin-left: 0.1em;
+}
+
+footer .copyright a {
+    font-size: 0.6em;
+    color: #939598;
+    margin-left: 1080px;
+}
+
+#contato {
+    background-image: url('..//img/bkg_contato.png');
+    background-repeat: round;
+    padding: 4em 0;
+}
+
+.jumbotron {
+    height: 22em;
+    background-image: url('..//img/bkg_pagsobre.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-color: #939598;
+}
